@@ -1,19 +1,13 @@
----
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+# Project 1- Face Detection
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Face detection involves identifying a person’s face in an image or video. This is done by analyzing the visual input to determine whether a person’s facial features are present.Using OpenCv library with python this can help in many real world problems succh as surveillance, autonomous vehicles,etc.
+OpenCV package comes with pre-trained models for face detection, which means that we don’t have to train an algorithm from scratch. More specifically, the library employs a machine learning approach called Haar cascade to identify objects in visual data.
 
-# Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
+/*
 ## Header 2
 
 > This is a blockquote following a header.
@@ -114,7 +108,7 @@ end
 <dd>Green</dd>
 </dl>
 
-```
+```*/
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
 
