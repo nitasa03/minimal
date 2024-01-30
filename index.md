@@ -6,7 +6,7 @@
 Face detection involves identifying a person’s face in an image or video. This is done by analyzing the visual input to determine whether a person’s facial features are present.Using OpenCv library with python this can help in many real world problems succh as surveillance, autonomous vehicles,etc.
 OpenCV package comes with pre-trained models for face detection, which means that we don’t have to train an algorithm from scratch. More specifically, the library employs a machine learning approach called Haar cascade to identify objects in visual data.
 
-
+Testing
 /*
 ## Header 2
 
